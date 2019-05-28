@@ -1,12 +1,13 @@
 {
   "grid": [
     {
-      "id": 1,
-      "dal": "12/07/2018",
-      "al": "12/11/2018",
-      "occupation": "Java developer",
-      "employer": "EstiaTech srl, Roma",
-      "activities": "Sviluppo e manutenzione su UnicoWeb e UnicoBatch"
+          value: "Data",
+          value: "Entrata",
+          value: "Uscita pranzo",
+          value: "Entrata pranzo",
+          value: "Uscita",
+          value: "Ore lavorate"
+          value: "Straordinario"
     }
   ]
 }
