@@ -1,8 +1,7 @@
 {
   "posts": [
     {
-      "value": "Data", 
-      readOnly: true
+      "value": "Data"
     }
   ]
 }
