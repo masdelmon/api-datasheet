@@ -1,22 +1,7 @@
 {
   "grid": [
         [
-          { value: "Data", readOnly: true },
-          { value: "Entrata", readOnly: true },
-          { value: "Uscita pranzo", readOnly: true },
-          { value: "Entrata pranzo", readOnly: true },
-          { value: "Uscita", readOnly: true },
-          { value: "Ore lavorate", readOnly: true },
-          { value: "Straordinario", readOnly: true }
-        ],
-        [
-          { readOnly: true, value: "01/05/2019" },
-          { value: "09:00" },
-          { value: "13:00" },
-          { value: "14:00" },
-          { value: "18:00" },
-          { value: 8 },
-          { value: "00:00" }
+          { "value": "Data", "readOnly": true },
         ]
   ]
 }
