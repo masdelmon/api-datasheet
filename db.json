@@ -1,5 +1,14 @@
 {
   "grid": [
+    { 
+      data: "Data",
+      entrata: "Entrata",
+      upranzo: "Uscita pranzo", 
+      epranzo: "Entrata pranzo", 
+      uscita: "Uscita", 
+      ore: "Ore lavorate", 
+      straordinario: "Straordinario"
+    }
     {
       "d": "01/05/2019", "i": "09:00", "up": "13:00", "ep": "14:00", "u": "18:00", "ol": 8, "s": "00:00"
     }
