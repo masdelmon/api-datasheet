@@ -2,7 +2,7 @@
   "posts": [
     {
       "value": "Data",
-      "title": "hello"
+      readOnly: true
     }
   ]
 }
