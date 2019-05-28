@@ -1,8 +1,11 @@
 {
   "posts": [
-    {
-      "value": "Data",
-      "value": "Ingresso"
-    }
+          { value: "Data", readOnly: true },
+          { value: "Entrata", readOnly: true },
+          { value: "Uscita pranzo", readOnly: true },
+          { value: "Entrata pranzo", readOnly: true },
+          { value: "Uscita", readOnly: true },
+          { value: "Ore lavorate", readOnly: true },
+          { value: "Straordinario", readOnly: true }
   ]
 }
