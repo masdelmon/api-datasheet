@@ -1,5 +1,5 @@
 {
-  "grid
+  "grid"
  [
           { value: "Data", readOnly: true },
           { value: "Entrata", readOnly: true },
