@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      value: "Data",
-      value: "Ingresso"
+      "value": "Data",
+      "value": "Ingresso"
     }
   ]
 }
