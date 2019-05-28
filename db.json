@@ -1,13 +1,13 @@
 {
   "grid": [
     {
-          value: "Data",
-          value: "Entrata",
-          value: "Uscita pranzo",
-          value: "Entrata pranzo",
-          value: "Uscita",
-          value: "Ore lavorate"
-          value: "Straordinario"
+          "value": "Data",
+          "value": "Entrata",
+          "value": "Uscita pranzo",
+          "value": "Entrata pranzo",
+          "value": "Uscita",
+          "value": "Ore lavorate"
+          "value": "Straordinario"
     }
   ]
 }
