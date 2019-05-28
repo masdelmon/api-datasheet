@@ -1,13 +1,13 @@
 {
   "grid": [
-    {
-          "value": "Data",
-          "value": "Entrata",
-          "value": "Uscita pranzo",
-          "value": "Entrata pranzo",
-          "value": "Uscita",
-          "value": "Ore lavorate",
-          "value": "Straordinario"
-    }
+    
+          { value: "01/05/2019" },
+          { value: "09:00" },
+          { value: "13:00" },
+          { value: "14:00" },
+          { value: "18:00" },
+          { value: 8 },
+          { value: "00:00" }
+    
   ]
 }
