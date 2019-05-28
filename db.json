@@ -1,7 +1,11 @@
 {
-  "grid": [
-        
-          { "value": "Data", "readOnly": true }
-        
-  ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
